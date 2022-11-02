@@ -1,0 +1,16 @@
+---
+title: "Causal Modelling Workshop - LAK23"
+author: Ben Hicks and Joshua Weidlich
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+---
+
+## Overview
+
+This workshop will ...
+
+## Further reading
+
+...

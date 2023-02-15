@@ -92,7 +92,8 @@ as a teacher for over a decade across three continents before switching
 to building models and data pipelines to assist in student support and
 retention.
 
-Joshua Weidlich : [twitter](@hassenrueb)
+Joshua Weidlich : [twitter](@hassenrueb),
+[blog](https://joshuaweidlich.wordpress.com/)
 
 Joshua Weidlich is a postdoctoral researcher in the Educational
 Technologies Group at DIPF. An educational researcher by training, his

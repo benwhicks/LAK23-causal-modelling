@@ -83,7 +83,7 @@ tool, see:
 
 ### About us
 
-**Ben Hicks** $\rightarrow$ [twitter](https://twitter.com/benimbenix),
+**Ben Hicks** → [twitter](https://twitter.com/benimbenix),
 [blog](https://koanmathematics.wordpress.com/)
 
 Ben Hicks is a doctoral researcher with the Connected Intelligence
@@ -95,7 +95,7 @@ as a teacher for over a decade across three continents before switching
 to building models and data pipelines to assist in student support and
 retention.
 
-**Joshua Weidlich** $\rightarrow$ [twitter](@hassenrueb),
+**Joshua Weidlich** → [twitter](@hassenrueb),
 [blog](https://joshuaweidlich.wordpress.com/)
 
 Joshua Weidlich is a postdoctoral researcher in the Educational

@@ -28,7 +28,7 @@ Causal Models help encode our scientific assumptions in a formalised way. This g
 
 For a deeper introduction to causal models and bias, see: 
 
-Weidlich, J., Gašević, D., & Drachsler, H. (2022). [Causal Inference and Bias in Learning Analytics: A Primer on Pitfalls Using Directed Acyclic Graphs](https://learning-analytics.info/index.php/JLA/article/view/7577). *Journal of Learning Analytics*, 9(3), 183-199.
+> Weidlich, J., Gašević, D., & Drachsler, H. (2022). [Causal Inference and Bias in Learning Analytics: A Primer on Pitfalls Using Directed Acyclic Graphs](https://learning-analytics.info/index.php/JLA/article/view/7577). *Journal of Learning Analytics*, 9(3), 183-199.
 
 
 ### How can Causal Models help in the co design of LA?
@@ -37,7 +37,7 @@ These models are drawn, using pen and paper or online tools such as [Dagitty](ht
 
 For a deeper introduction to causal models as a participatory design tool, see: 
 
-Hicks, B., Kitto, K., Payne, L., & Buckingham Shum, S. (2022, March). [Thinking with causal models: A visual formalism for collaboratively crafting assumptions](https://dl.acm.org/doi/abs/10.1145/3506860.3506899). In *LAK22: 12th International Learning Analytics and Knowledge Conference* (pp. 250-259).
+> Hicks, B., Kitto, K., Payne, L., & Buckingham Shum, S. (2022, March). [Thinking with causal models: A visual formalism for collaboratively crafting assumptions](https://dl.acm.org/doi/abs/10.1145/3506860.3506899). In *LAK22: 12th International Learning Analytics and Knowledge Conference* (pp. 250-259).
 
 ### What will I learn?
 
@@ -47,11 +47,11 @@ Hicks, B., Kitto, K., Payne, L., & Buckingham Shum, S. (2022, March). [Thinking 
 
 ### About us
 
-Ben Hicks : [twitter](https://twitter.com/benimbenix), [blog](https://koanmathematics.wordpress.com/)
+**Ben Hicks** $\rightarrow$ [twitter](https://twitter.com/benimbenix), [blog](https://koanmathematics.wordpress.com/)
 
-Ben Hicks is a Doctoral Researcher with the Connected Intelligence Centre ([UTS:CIC](https://cic.uts.edu.au/)) at the University of Technology Sydney. His research centres around the participatory and scrutable modelling of learning systems, primarily using graphical causal models as a tool for engagement and collaboration. Ben has worked as a teacher for over a decade across three continents before switching to building models and data pipelines to assist in student support and retention. 
+Ben Hicks is a doctoral researcher with the Connected Intelligence Centre ([UTS:CIC](https://cic.uts.edu.au/)) at the University of Technology Sydney. His research centres around the participatory and scrutable modelling of learning systems, primarily using graphical causal models as a tool for engagement and collaboration. Ben has worked as a teacher for over a decade across three continents before switching to building models and data pipelines to assist in student support and retention. 
 
-Joshua Weidlich : [twitter](@hassenrueb), [blog](https://joshuaweidlich.wordpress.com/)
+**Joshua Weidlich** $\rightarrow$ [twitter](@hassenrueb), [blog](https://joshuaweidlich.wordpress.com/)
 
 Joshua Weidlich is a postdoctoral researcher in the Educational Technologies Group at DIPF. An educational researcher by training, his research interests are at the intersection of education, technology, and psychology. He received his doctorate on the topic of social presence in online distance learning environment in 2021 from the FernUniverstität in Hagen, the largest German distance education university. He has worked as research staff at the Department of Instructional Technology & Media at FernUniversität in Hagen as well as the Department of Technology-Enhanced Learning at Heidelberg University of Education. In 2022, he received the Outstanding Dissertation Award by the Deutsche Gesellschaft für Hochschuldidaktik. He is part of an international emerging field group (EFG, part of EARLI) on social presence and telepresence in online learning. He maintains a curated list of Open Access journals in Educational Technology.
 

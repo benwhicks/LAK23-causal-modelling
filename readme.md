@@ -48,10 +48,11 @@ articulated assumptions, in order to make a causal estimate.
 
 For a deeper introduction to causal models and bias, see:
 
-Weidlich, J., Gašević, D., & Drachsler, H. (2022). [Causal Inference and
-Bias in Learning Analytics: A Primer on Pitfalls Using Directed Acyclic
-Graphs](https://learning-analytics.info/index.php/JLA/article/view/7577).
-*Journal of Learning Analytics*, 9(3), 183-199.
+> Weidlich, J., Gašević, D., & Drachsler, H. (2022). [Causal Inference
+> and Bias in Learning Analytics: A Primer on Pitfalls Using Directed
+> Acyclic
+> Graphs](https://learning-analytics.info/index.php/JLA/article/view/7577).
+> *Journal of Learning Analytics*, 9(3), 183-199.
 
 ### How can Causal Models help in the co design of LA?
 
@@ -64,12 +65,12 @@ LA and other research.
 For a deeper introduction to causal models as a participatory design
 tool, see:
 
-Hicks, B., Kitto, K., Payne, L., & Buckingham Shum, S. (2022, March).
-[Thinking with causal models: A visual formalism for collaboratively
-crafting
-assumptions](https://dl.acm.org/doi/abs/10.1145/3506860.3506899). In
-*LAK22: 12th International Learning Analytics and Knowledge Conference*
-(pp. 250-259).
+> Hicks, B., Kitto, K., Payne, L., & Buckingham Shum, S. (2022, March).
+> [Thinking with causal models: A visual formalism for collaboratively
+> crafting
+> assumptions](https://dl.acm.org/doi/abs/10.1145/3506860.3506899). In
+> *LAK22: 12th International Learning Analytics and Knowledge
+> Conference* (pp. 250-259).
 
 ### What will I learn?
 
@@ -80,10 +81,10 @@ assumptions](https://dl.acm.org/doi/abs/10.1145/3506860.3506899). In
 
 ### About us
 
-Ben Hicks : [twitter](https://twitter.com/benimbenix),
+**Ben Hicks** $\rightarrow$ [twitter](https://twitter.com/benimbenix),
 [blog](https://koanmathematics.wordpress.com/)
 
-Ben Hicks is a Doctoral Researcher with the Connected Intelligence
+Ben Hicks is a doctoral researcher with the Connected Intelligence
 Centre ([UTS:CIC](https://cic.uts.edu.au/)) at the University of
 Technology Sydney. His research centres around the participatory and
 scrutable modelling of learning systems, primarily using graphical
@@ -92,7 +93,7 @@ as a teacher for over a decade across three continents before switching
 to building models and data pipelines to assist in student support and
 retention.
 
-Joshua Weidlich : [twitter](@hassenrueb),
+**Joshua Weidlich** $\rightarrow$ [twitter](@hassenrueb),
 [blog](https://joshuaweidlich.wordpress.com/)
 
 Joshua Weidlich is a postdoctoral researcher in the Educational

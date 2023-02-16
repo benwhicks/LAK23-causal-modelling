@@ -13,6 +13,8 @@ Ben Hicks and Joshua Weidlich
     learn?</a>
   - <a href="#about-us" id="toc-about-us">About us</a>
 - <a href="#preparation" id="toc-preparation">Preparation</a>
+  - <a href="#optional-think-of-a-problem"
+    id="toc-optional-think-of-a-problem">Optional: Think of a problem</a>
   - <a href="#optional-further-reading"
     id="toc-optional-further-reading">Optional: Further reading</a>
   - <a href="#very-very-optional-r-installation-and-packages"
@@ -121,6 +123,17 @@ into the code unless this is already an area of interest. Some of the
 benefits of using software packages are also available in a web based
 graphical tool called [Dagitty](http://www.dagitty.net/), which will
 also be covered.
+
+### Optional: Think of a problem
+
+Do you have a problem in your research or work where it would help to
+understand a *causal* effect? It may be an intervention that has been
+performed, or perhaps proposed, whose impact is difficult to untangle
+from other parts of the learning system (LA examples are available in
+both our papers, outlined below in *Further reading*). If you can think
+of a problem, bring it along to the session for a chance to work
+collaboratively on minimising the bias in estimating the causal effect
+through the development of a causal model.
 
 ### Optional: Further reading
 
